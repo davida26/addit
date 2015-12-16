@@ -27,6 +27,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # add the acts_as_votable gem
 gem 'acts_as_votable', '~> 0.10.0'
+#simple form
+gem 'simple_form', '~> 3.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

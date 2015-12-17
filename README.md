@@ -1,10 +1,10 @@
-== ADDIT
+###ADDIT
 
 Tired of bookmarks? Ever felt like you needed a place to store your favorite links? Addit does that! 
 
-##ADDIT is a lightweight Rails app that allows you to create a link directory to your favorite resources. This project is currently in development. If you want to help adding more to it, let me know!
+ADDIT is a lightweight Rails app that allows you to create a link directory to your favorite resources. This project is currently in development. Feel free to contribute and add to the TODO
 
-##The TODO
+###The TODO
 
 1. Add description snippet to each link so people can quickly get a gist of what the link is for.
 2. Add categories to each link for classification.

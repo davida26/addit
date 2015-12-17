@@ -1,28 +1,18 @@
-== README
+== ADDIT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tired of bookmarks? Ever felt like you needed a place to store your favorite links? Addit does that! 
 
-Things you may want to cover:
+##ADDIT is a lightweight Rails app that allows you to create a link directory to your favorite resources. This project is currently in development. If you want to help adding more to it, let me know!
 
-* Ruby version
+##The TODO
 
-* System dependencies
+1. Add description snippet to each link so people can quickly get a gist of what the link is for.
+2. Add categories to each link for classification.
+3. Modify link directoy layout. 
+4. Optimize for mobile, for on the go additions.
+5. Add Google login
+6. Fix Simple Form error when starting the development server
+7. Create test cases using capy/rspec for links
+8. Make the login prettier
+9. More ideas?
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
